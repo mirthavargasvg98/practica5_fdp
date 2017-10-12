@@ -1,0 +1,44 @@
+//Despouys Pascual Paul
+//García Miranda Ivanna 
+//Ramírez Ramírez Ana Karla	
+//Vargas Romero Mirtha A 
+INICIO 
+Numero [3] // 3 variables de tipo entero
+Numero_[0] 9             FS: FUNCION SUMA   ? diferente 
+Numero_[1] 7		->: adquiere valor  + incrementa una unidad 
+Numero_[2] 2		=: igual a 
+
+ESCRIBIR: "Numero_[2] 2"
+LEER:  SI Numero_[2]  ? de 9 ENTONCES
+ESCRIBIR: "Numero_[2]+1"
+LEER: Numero_[2] + 
+DE LO CONTRARIO 
+ESCRIBIR: "Numero_[2] 2"
+LEER: SI Numero_[2] = a 9 ENTONCES
+ESCRIBIR: "Numero_[2] = a 9"
+LEER: Numero_[2] -> 0
+ESCRIBIR: "Numero_[1] 7"
+LEER:  SI Numero_[1]  ? de 9 ENTONCES
+ESCRIBIR: "Numero_[1]+1"
+LEER: Numero_[1] +
+DE LO CONTRARIO
+ESCRIBIR: "Numero_[1] 7"
+LEER: SI Numero_[1] = a 9 ENTONCES
+ESCRIBIR: "Numero_[1] = a 9"
+LEER: Numero_[1] -> 0
+ESCRIBIR: "Numero_[0] 9"
+LEER:  SI Numero_[0]  ? de 9 ENTONCES
+ESCRIBIR: "Numero_[0]+1"
+LEER: Numero_[0] +
+DE LO CONTRARIO
+ESCRIBIR: "Numero_[0] 9"
+LEER: SI Numero_[0] = a 9 ENTONCES
+ESCRIBIR: "Numero_[0] -> 10"
+LEER: Numero_[0] -> 10 **
+FIN FS
+//** En la suma siempre que se quiera aumentar en uno pero el valor
+sea 9 de la variable "Numero_[0]" esta se convertirá en 10, no 
+importa la cantidad de variables que tenga el número a sumar.
+
+
+ 
